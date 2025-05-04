@@ -1,0 +1,42 @@
+c:\users\max\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\max\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\max\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\max\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\max\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\max\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\max\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Max\Documents\Visual Studio 2012\Projects\xxxxx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Max\Desktop\CommentedRectified Recursion Final VIsual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\Max\Desktop\Network anti antropy commented\CommentedRectified Recursion Final VIsual\Recursion Visual\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Max\Desktop\Network anti antropy commented\CommentedRectified Recursion Final VIsual\Recursion Visual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Max\Desktop\Network anti antropy commented\CommentedRectified Recursion Final VIsual\Recursion Visual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Max\Desktop\Network anti antropy commented\CommentedRectified Recursion Final VIsual\Recursion Visual\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
