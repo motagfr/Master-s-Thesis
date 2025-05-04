@@ -35,6 +35,9 @@ You can read more about how my thesis has been applied in his work [here](https:
 ### Full Text Access
 The full text of my thesis, titled "An Investigation on Network Entropy-Gossiping Protocol and Anti-entropy Evaluation," is available for download on the Blekinge Institute of Technology (BTH) DiVA portal. You can access it [here](https://bth.diva-portal.org/smash/record.jsf?pid=diva2%3A829973&dswid=-277).
 
+## Programming Language
+All simulations, the desktop application, and the implementation of the mathematical model were developed in **C#**.
+
 ## Repository Structure
 Here’s a quick guide to what you’ll find in this repository:
 
