@@ -22,7 +22,7 @@ The thesis explores the use of gossiping protocols to update the state of knowle
 
 4. **Analysis of Scalability**: I examined how the system scales with an increasing number of nodes. The results showed that information propagation follows a logistic curve in large systems, and scalability improves with a higher initial number of nodes.
 
-5. **Real-World Relevance**: Since this research was done in collaboration with Ericsson, the findings are directly applicable to real-world decentralized systems.
+5. **Real-World Relevance**: The findings of thesis are applicable to similar real-world decentralized systems.
 
 ### Key Insights
 One of the most exciting moments for me came much later, after I had completed my thesis. I realized that the logistic curve observed in the propagation of information is also used to describe how viruses spread. This was an incredible discovery for me.
